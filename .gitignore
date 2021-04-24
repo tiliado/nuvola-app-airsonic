@@ -1,0 +1,13 @@
+Makefile
+metadata.json
+icons
+/screenshots/
+nuvola-app-airsonic
+eu.tiliado.NuvolaAppAirsonic.desktop
+eu.tiliado.NuvolaAppAirsonic.service
+eu.tiliado.NuvolaAppAirsonic.appdata.xml
+nuvola-app-airsonic.metainfo.xml
+eu.tiliado.WebRuntimeAppAirsonic.desktop
+eu.tiliado.WebRuntimeAppAirsonic.service
+eu.tiliado.WebRuntimeAppAirsonic.appdata.xml
+nuvola-app-airsonic.metainfo.xml
